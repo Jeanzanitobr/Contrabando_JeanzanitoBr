@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+pillow
+easyocr
+ultralytics
+opencv-python-headless
+folium
+streamlit-folium
+fpdf
